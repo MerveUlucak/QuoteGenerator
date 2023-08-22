@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #ffdd75;
+}
+.quote {
+  background-color: white;
+  margin: 50px;
+  max-width: 500px;
+  border-radius: 5px;
+}
+button {
+  margin-bottom: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+.text {
+  font-weight: bold;
+}
+.author {
+  font-family: cursive;
+  font-size: 12px;
+  font-style: italic;
+}
